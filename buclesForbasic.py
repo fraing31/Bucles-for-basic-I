@@ -1,4 +1,4 @@
-"""
+
 #Básico: imprime todos los números enteros del 0 al 150.
 
 for e in range(0, 151):
@@ -41,7 +41,6 @@ while reFour > 0:
 #Contador flexible: establece tres variables: lowNum, highNum, mult. Comenzando en lowNum y pasando por highNum, 
 # imprime solo los enteros que sean múltiplos de mult. Por ejemplo, si lowNum=2, highNum=9 y mult=3. 
 # El bucle debe imprimir 3, 6, 9 (en líneas sucesivas). 
-"""
 
 lowNum = 30
 hightNum = 45
